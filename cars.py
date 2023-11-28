@@ -21,9 +21,9 @@ cars.pop(4)
 # `problem 11. print the array to the console`
 print (cars)
 # `problem 12. Sort the array in ascending order`
-
+cars.sort()
 # `problem 13. print the array to the console`
-
+print (cars)
 # `problem 14. Sort the array in descending order`
 
 # `problem 15. print the array to the console`
