@@ -17,9 +17,9 @@ cars.insert(2, 'Toyota')
 # `problem 9. print the array to the console`
 print (cars)
 # `problem 10. Remove element 5 of the array (hint look at options for pop())`
-
+cars.pop(4)
 # `problem 11. print the array to the console`
-
+print (cars)
 # `problem 12. Sort the array in ascending order`
 
 # `problem 13. print the array to the console`
